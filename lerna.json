@@ -1,6 +1,8 @@
 {
   "packages": [
-    "packages/*"
+    "packages/common/*",
+    "packages/dex/*",
+    "packages/wallet/*"
   ],
   "version": "independent"
 }
